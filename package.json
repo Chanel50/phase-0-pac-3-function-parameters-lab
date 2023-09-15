@@ -28,6 +28,7 @@
     "jsdom": "^9.2.1",
     "mocha": "5.2.0",
     "mocha-jsdom": "~1.1.0",
+    "mocha-json-reporter": "^1.0.0-1",
     "mocha-multi": "^1.1.3"
   }
 }
